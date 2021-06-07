@@ -1,3 +1,5 @@
 fun main(args: Array<String>) {
-    println("Hello World!")
+    for(numero in Ejer1(11).array){
+        println(numero)
+    }
 }
